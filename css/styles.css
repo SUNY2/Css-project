@@ -28,6 +28,11 @@ a {
     color: #11999E;
     padding: 20px;
     font-family: 'Dosis', sans-serif;
+    text-decoration: none;
+
+}
+a:hover {
+    color: #eaf6f6;
 }
 
 p {
